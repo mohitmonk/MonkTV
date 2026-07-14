@@ -1,0 +1,6 @@
+{
+  "name": "MonkTV",
+  "description": "A high-performance web-based IPTV player dedicated to browsing and streaming live sports channels globally. Features advanced channel search, country/language filters, responsive mobile-first grids, local favorites management, and Picture-in-Picture multitasking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
